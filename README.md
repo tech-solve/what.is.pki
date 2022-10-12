@@ -1,6 +1,6 @@
 # what is pki
 
-[![what is pki](redd.png)](https://github.com/tech-solve/what.is.pki)
+[![what is pki](redd.png)](https://icncomputer.com/what-is-pki/)
 
 
 
